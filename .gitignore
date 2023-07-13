@@ -1,0 +1,10 @@
+*
+!.gitignore
+!*.ipynb
+!*.pdf
+// do not ignore any files in the data directory
+!data/
+//ignore zip files in the data directory
+data/*.zip
+
+*.DS_Store
